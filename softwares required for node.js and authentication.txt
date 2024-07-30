@@ -1,0 +1,12 @@
+Software we require for node.js
+
+i.npm init(command)
+ii.express(framework)
+iii.cors(creating communication connection between two servers)
+iv.body parser(for converting api result to readable form)
+
+Softwares which we require for authentication
+
+i.bcrypt(for making hash and comparing password)
+ii.jwt(for making token)
+
