@@ -1,0 +1,10 @@
+.show_bg_2 {
+  background-image: linear-gradient(
+      to left,
+      rgba(223, 219, 219, 0.1),
+      rgb(0, 0, 0)
+    ),
+    url("../public/background-image.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
