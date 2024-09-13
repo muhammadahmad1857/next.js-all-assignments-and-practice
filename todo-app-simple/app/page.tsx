@@ -49,7 +49,7 @@ export default function Todo() {
         <Alert status="error">
           <AlertIcon />
           <AlertTitle>An Error Occured!</AlertTitle>
-          <AlertDescription>Due to you don't enter any task</AlertDescription>
+          <AlertDescription>Due to you don&apos;t enter any task</AlertDescription>
         </Alert>
       )}
       <Flex
